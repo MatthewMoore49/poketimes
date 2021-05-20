@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/poketimes/static/css/main.d9390b0a.chunk.css",
+    "main.js": "/poketimes/static/js/main.6cff4c22.chunk.js",
+    "main.js.map": "/poketimes/static/js/main.6cff4c22.chunk.js.map",
+    "runtime-main.js": "/poketimes/static/js/runtime-main.a179cd75.js",
+    "runtime-main.js.map": "/poketimes/static/js/runtime-main.a179cd75.js.map",
+    "static/js/2.fdd10518.chunk.js": "/poketimes/static/js/2.fdd10518.chunk.js",
+    "static/js/2.fdd10518.chunk.js.map": "/poketimes/static/js/2.fdd10518.chunk.js.map",
+    "static/js/3.69c56dad.chunk.js": "/poketimes/static/js/3.69c56dad.chunk.js",
+    "static/js/3.69c56dad.chunk.js.map": "/poketimes/static/js/3.69c56dad.chunk.js.map",
+    "index.html": "/poketimes/index.html",
+    "static/css/main.d9390b0a.chunk.css.map": "/poketimes/static/css/main.d9390b0a.chunk.css.map",
+    "static/js/2.fdd10518.chunk.js.LICENSE.txt": "/poketimes/static/js/2.fdd10518.chunk.js.LICENSE.txt",
+    "static/media/pokeball.05e5662d.png": "/poketimes/static/media/pokeball.05e5662d.png",
+    "static/media/index.css": "/poketimes/static/media/pokes.6a303696.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a179cd75.js",
+    "static/js/2.fdd10518.chunk.js",
+    "static/css/main.d9390b0a.chunk.css",
+    "static/js/main.6cff4c22.chunk.js"
+  ]
+}
