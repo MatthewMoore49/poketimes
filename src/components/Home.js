@@ -28,7 +28,7 @@ class Home extends Component {
 
 
 
-         <div className='center'>No posts to show</div>
+         <div className='center white-text'>No posts to show</div>
      );
                 return(
                     <div>
