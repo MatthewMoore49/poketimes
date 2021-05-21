@@ -12,10 +12,10 @@ import {deletePost} from '../actions/postActions';
     render() {
         console.log(this.props);
         const post = this.props.post ? (
-            <div className="post">
+            <div className="post white-text">
             <h4 className="center white-text">{this.props.post.title}</h4>
             <p>{this.props.post.body}</p>
-            <div className="center ">
+            <div className="center white-text ">
             <button className="btn " onClick={this.handleClick}>Delete Post</button>
             </div> 
              </div>
