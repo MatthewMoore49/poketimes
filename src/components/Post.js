@@ -15,7 +15,7 @@ import {deletePost} from '../actions/postActions';
             <div className="post">
             <h4 className="center white-text">{this.props.post.title}</h4>
             <p>{this.props.post.body}</p>
-            <div className="center">
+            <div className="center ">
             <button className="btn " onClick={this.handleClick}>Delete Post</button>
             </div> 
              </div>
